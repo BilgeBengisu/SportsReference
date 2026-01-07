@@ -13,5 +13,5 @@ For any additional questions: bilgebengisu1@gmail.com
 
 The resulting table:
 
-![Team Records Table](./team-records-table.png)
+![Team Records Table](./table.png)
 
