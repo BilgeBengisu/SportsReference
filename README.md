@@ -10,3 +10,8 @@ It includes:
 * table.html: uses the solution.js created by solution.ts to display the table on the browser.
 
 For any additional questions: bilgebengisu1@gmail.com
+
+The resulting table:
+
+![Team Records Table](./team-records-table.png)
+
